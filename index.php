@@ -25,7 +25,7 @@ include 'configuration.php';
 
 
     <div class="container">
-        <h1 class="my-3">Mohsin's Todo App</h1>
+        <h1 class="my-3">iNotes</h1>
         <form class="my-2" action="add.php" method="post">
             <div class="form-group">
                 <label for="title">Title</label>
